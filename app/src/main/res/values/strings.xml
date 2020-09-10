@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Balik Tulisan</string>
+    <string name="s_et_tulisan">Masukkan kata</string>
+    <string name="reverse">Reverse</string>
+    <string name="undo_redo">Undo/Redo</string>
+</resources>
